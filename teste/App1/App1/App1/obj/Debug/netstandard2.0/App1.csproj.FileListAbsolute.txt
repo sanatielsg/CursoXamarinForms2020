@@ -1,0 +1,14 @@
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+U:\git-repositories\CursoXamarinForms2020\teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
